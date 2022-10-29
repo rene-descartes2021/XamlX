@@ -5,7 +5,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\XamlX\XamlX.csproj" />
+      <ProjectReference Include="..\XamlX\XamlX.csproj" OutputItemType="Content" CopyToOutputDirectory="Always"/>
     </ItemGroup>
 
     <ItemGroup>
